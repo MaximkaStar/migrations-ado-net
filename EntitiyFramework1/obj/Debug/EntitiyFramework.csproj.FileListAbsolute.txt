@@ -1,0 +1,12 @@
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\bin\Debug\EntitiyFramework.exe.config
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\bin\Debug\EntitiyFramework.exe
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\bin\Debug\EntitiyFramework.pdb
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\bin\Debug\EntityFramework.dll
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\bin\Debug\EntityFramework.xml
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\obj\Debug\EntitiyFramework.csprojAssemblyReference.cache
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\obj\Debug\EntitiyFramework.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\obj\Debug\EntitiyFramework.csproj.CopyComplete
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\obj\Debug\EntitiyFramework.exe
+C:\Users\Максим\source\repos\EntitiyFramework\EntitiyFramework\obj\Debug\EntitiyFramework.pdb
